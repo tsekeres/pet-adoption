@@ -1,7 +1,7 @@
 # Adoption Website
 
 ## Setup
-* While in ~/workspace/foundations/exercises, make a directory called pet-adoption
+* While in `~/workspace/foundations/exercises`, make a directory called `pet-adoption`
 * Create a github repository called `pet-adoption` and push up a README.md file
 * Create a setup branch and push up the usual stuff
 
