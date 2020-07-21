@@ -17,7 +17,7 @@
   "typeOfPet": xxx
 }
 ```
-- Loop through each object and print each object to the DOM
+- Loop through each object and print each item to the DOM
 
 ![MockUp1](MockUp1.png)
 
