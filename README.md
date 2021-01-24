@@ -28,3 +28,6 @@
 - There should be some way for the user to unfilter the results (ie All Pets button).
 
 ![MockUp](MockUp.png)
+
+## Requirements - Readme and Loom Video
+When the project is complete, make sure to follow the last step in the Planning Study Group assignment you had. Update the README with all the items listed.
