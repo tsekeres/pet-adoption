@@ -1,3 +1,25 @@
 body {
-  background-color: steelblue;
+  background-color: #5a5d66;
 }
+
+img {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+#all {
+  background-color: #c50f0f !important;
+}
+#cat {
+  background-color: #207fbe !important;
+}
+#dog {
+  background-color: #1f8612 !important;
+}
+#dino {
+  background-color: #e7e40c !important;
+}
+
+
+/* target the Id for specific footer colors */
