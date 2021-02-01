@@ -9,7 +9,8 @@ Single Page Application showing numerous pet cards. Each card it designated by s
 Link to your wireframes/prototype:
 N/A
 
-Link to the deployed project (will learn in week 5)
+Link to the deployed project:
+https://ts-pet-adoption.netlify.app
 
 Link to your project board (yes...even though it is a part of the repo)
 
