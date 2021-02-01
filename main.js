@@ -228,6 +228,7 @@ const cardBuilder = (taco) => {
                       </div>
                       <h5 class="card-title pt-2">${taco[i].color}</h5>
                       <p class="card-text">${taco[i].specialSkill}</p>
+                      <a href="#" type="button" class="btn btn-secondary" id="${i}">Adopted!</a>
                     </div>
                     <div class="card-footer text-muted">${taco[i].type}</div>
                   </div>`;
@@ -253,8 +254,16 @@ const onButtonClick = (e) => {
   } else {
     cardBuilder(bySpecies);
   }
-  
+}
 
+const adopted = (e) => {
+  const targetType = e.target.type;
+  const targetId = e.target.id;
+
+  if (targetType === 'button') {
+    pets.splice(targetId, 1);
+  }
+  cardBuilder(pets);
 }
 
 const buttonEvents = () => {
@@ -262,6 +271,7 @@ const buttonEvents = () => {
   document.querySelector('#cat').addEventListener('click', onButtonClick);
   document.querySelector('#dog').addEventListener('click', onButtonClick);
   document.querySelector('#dino').addEventListener('click', onButtonClick);
+  document.querySelector('#pet-cards').addEventListener('click', adopted);
 }
 
 const init = () => {
