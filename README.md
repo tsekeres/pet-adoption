@@ -1,10 +1,13 @@
 README is completed with:
 
-Name of the Project
+Name of the Project:
+Pet Adoption
 
-Overview of the project
+Overview of the project:
+Single Page Application showing numerous pet cards. Each card it designated by species and shows information about each animal. These cards can be sorted and viewed by species or all together. These animals are up for adoption and can be selected and taken out of circulation by selecting the Adopted! button.
 
-Link to your wireframes/prototype
+Link to your wireframes/prototype:
+N/A
 
 Link to the deployed project (will learn in week 5)
 
