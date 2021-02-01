@@ -230,7 +230,7 @@ const cardBuilder = (taco) => {
                       <p class="card-text">${taco[i].specialSkill}</p>
                       <a href="#" type="button" class="btn btn-secondary" id="${i}">Adopted!</a>
                     </div>
-                    <div class="card-footer text-muted">${taco[i].type}</div>
+                    <div class="card-footer text-light ${taco[i].type}">${taco[i].type}</div>
                   </div>`;
   }
   printToDom('#pet-cards', domString);

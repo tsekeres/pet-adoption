@@ -21,5 +21,14 @@ img {
   background-color: #e7e40c !important;
 }
 
+.cat {
+  background-color: #207fbe;
+}
 
-/* target the Id for specific footer colors */
+.dog {
+  background-color: #1f8612;
+}
+
+.dino {
+  background-color: #e7e40c;
+}
