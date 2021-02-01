@@ -12,14 +12,19 @@ N/A
 Link to the deployed project:
 https://ts-pet-adoption.netlify.app
 
-Link to your project board (yes...even though it is a part of the repo)
+Link to your project board:
+https://github.com/tsekeres/pet-adoption/projects/1
 
-Description of the user
+Description of the user:
+My user will be an individual wanting to view available animals for adoption as pets. They will hope to be able to browse through defferent species of pets and see pictures as well as names and a short description.
 
-List of features
+List of features:
+This site loads to show all pet cards and has a set of buttons that will sort all content based on species. Each pet can be taken out of circulation by selecting the Adopted! button. This button will make that card disappear.
 
-Screenshots of your project
+Screenshots of your project:
 
-List of contributors and links to their GH profiles
+
+List of contributors and links to their GH profiles:
+Solo project
 
 Link to Loom video walkthrough of your app: https://www.loom.com/share/ba3a83ca5925493198362c46416f5314
