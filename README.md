@@ -1,5 +1,3 @@
-README is completed with:
-
 Name of the Project:
 Pet Adoption
 
